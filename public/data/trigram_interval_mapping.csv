@@ -1,0 +1,9 @@
+Trigram code (000..111),Element (Wu Xing),Yang interval (tones) — Mode A,Yin interval (tones) — Mode A,Note — Mode A,Yang interval (tones) — Mode B,Yin interval (tones) — Mode B,Note — Mode B
+111,Металл,6.5,0.0,c,6.5,0.0,c
+110,Дерево,5.5,1.0,d,3.0,3.5,f
+101,Огонь,4.5,2.0,e,4.5,2.0,g#
+100,Почва,3.5,3.0,f#,1.0,5.5,c#
+011,Металл,3.0,3.5,g,5.5,1.0,b
+010,Вода,2.0,4.5,a,2.0,4.5,d#
+001,Дерево*,1.0,5.5,h,3.5,3.0,f#
+000,Почва,0.0,6.5,c#1,0.0,6.5,h1

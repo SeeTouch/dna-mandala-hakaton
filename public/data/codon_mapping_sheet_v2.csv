@@ -1,0 +1,65 @@
+Index(1..64),mRNA Codon,DNA Codon (T instead of U),AA (3-letter),AA (1-letter),AA Class,"Binary(6 bits A11,G10,C01,U00)",Purine/Pyrimidine pattern,GC count,"Scale degrees (A=1,C=2/9,G=5,U=b7)",Suggested duration units (2 + GCcount),Radius level (0=center..3=outer),Hexagram number (King Wen),Upper trigram,Lower trigram,Instrument/Role,Comments,Gate (Human Design),Gene Key,Codon Ring,Element (Wu Xing),Trigram Upper (code 000..111),Trigram Lower (code 000..111),"Interval (Yang, tones)","Interval (Yin, tones)",Order Used (Mutual-Generation / Fu-Xi / other),Instrument Group (palette)
+1,UUU,TTT,Phe,F,Nonpolar,000000,Yin-Yin-Yin,0,b7-b7-b7,2,3,2,000,000,Flute,Deep Subconscious,2,2,Ring of Water,Water,000,000,0.0,6.5,King Wen,Wood
+2,UUC,TTC,Phe,F,Nonpolar,000001,Yin-Yin-Yin,1,b7-b7-2/9,3,2,23,001,000,Oboe,Memory,23,23,Ring of Water,Earth,001,000,1.0,5.5,King Wen,Earth
+3,UUA,TTA,Leu,L,Nonpolar,000011,Yin-Yin-Yang,0,b7-b7-1,2,3,8,000,010,Clarinet,Structure,8,8,Ring of Water,Water,000,010,0.0,4.5,King Wen,Water
+4,UUG,TTG,Leu,L,Nonpolar,000010,Yin-Yin-Yang,1,b7-b7-5,3,2,20,010,000,Bassoon,Observation,20,20,Ring of Water,Water,010,000,2.0,6.5,King Wen,Water
+5,UCU,TCT,Ser,S,Polar,000100,Yin-Yin-Yin,1,b7-2/9-b7,3,2,16,100,000,Violin,Enthusiasm,16,16,Ring of Miracles,Earth,100,000,3.5,6.5,King Wen,Earth
+6,UCC,TCC,Ser,S,Polar,000101,Yin-Yin-Yin,2,b7-2/9-2/9,4,1,35,101,000,Viola,Progress,35,35,Ring of Miracles,Fire,101,000,4.5,6.5,King Wen,Fire
+7,UCA,TCA,Ser,S,Polar,000111,Yin-Yin-Yang,1,b7-2/9-1,3,2,45,000,110,Cello,Gathering,45,45,Ring of Miracles,Wood,000,110,0.0,1.0,King Wen,Wood
+8,UCG,TCG,Ser,S,Polar,000110,Yin-Yin-Yang,2,b7-2/9-5,4,1,12,010,000,Double Bass,Stagnation,12,12,Ring of Miracles,Water,010,000,2.0,6.5,King Wen,Water
+9,UAU,TAT,Tyr,Y,Polar,001100,Yin-Yang-Yin,0,b7-1-b7,2,3,15,000,101,Trumpet,Humility,15,15,Ring of Light,Fire,000,101,0.0,2.0,King Wen,Fire
+10,UAC,TAC,Tyr,Y,Polar,001101,Yin-Yang-Yin,1,b7-1-2/9,3,2,52,101,100,Horn,Mountain,52,52,Ring of Light,Earth,101,100,4.5,3.0,King Wen,Earth
+11,UAA,TAA,Stop,*,Stop,001111,Yin-Yang-Yang,0,b7-1-1,2,3,31,011,100,Trombone,Influence,31,31,Ring of No-Return,Metal,011,100,3.0,3.0,King Wen,Metal
+12,UAG,TAG,Stop,*,Stop,001110,Yin-Yang-Yang,1,b7-1-5,3,2,33,111,100,Tuba,Retreat,33,33,Ring of No-Return,Metal,111,100,6.5,3.0,King Wen,Metal
+13,UGU,TGT,Cys,C,Polar,001000,Yin-Yang-Yin,1,b7-5-b7,3,2,24,110,010,Harp,Return,24,24,Ring of Life,Wood,110,010,5.5,4.5,King Wen,Wood
+14,UGC,TGC,Cys,C,Polar,001001,Yin-Yang-Yin,2,b7-5-2/9,4,1,27,101,011,Piano,Nourishment,27,27,Ring of Life,Fire,101,011,4.5,3.5,King Wen,Fire
+15,UGA,TGA,Stop,*,Stop,001011,Yin-Yang-Yang,1,b7-5-1,3,2,62,010,110,Organ,Preponderance,62,62,Ring of No-Return,Water,010,110,2.0,1.0,King Wen,Water
+16,UGG,TGG,Trp,W,Nonpolar,001010,Yin-Yang-Yang,2,b7-5-5,4,1,3,110,001,Guitar,Difficulty,3,3,Ring of Gaia,Wood,110,001,5.5,5.5,King Wen,Wood
+17,CUU,CTT,Leu,L,Nonpolar,010000,Yin-Yin-Yin,1,2/9-b7-b7,3,2,7,010,000,Flute,Army,7,7,Ring of Water,Water,010,000,2.0,6.5,King Wen,Water
+18,CUC,CTC,Leu,L,Nonpolar,010001,Yin-Yin-Yin,2,2/9-b7-2/9,4,1,4,001,010,Oboe,Youthful Folly,4,4,Ring of Water,Wood,001,010,1.0,4.5,King Wen,Wood
+19,CUA,CTA,Leu,L,Nonpolar,010011,Yin-Yin-Yang,1,2/9-b7-1,3,2,29,010,010,Clarinet,Abysmal,29,29,Ring of Water,Water,010,010,2.0,4.5,King Wen,Water
+20,CUG,CTG,Leu,L,Nonpolar,010010,Yin-Yin-Yang,2,2/9-b7-5,4,1,59,110,010,Bassoon,Dispersion,59,59,Ring of Water,Wood,110,010,5.5,4.5,King Wen,Wood
+21,CCU,CCT,Pro,P,Nonpolar,010100,Yin-Yin-Yin,2,2/9-2/9-b7,4,1,40,110,001,Violin,Deliverance,40,40,Ring of Miracles,Wood,110,001,5.5,5.5,King Wen,Wood
+22,CCC,CCC,Pro,P,Nonpolar,010101,Yin-Yin-Yin,3,2/9-2/9-2/9,5,0,64,010,101,Viola,Before Completion,64,64,Ring of Miracles,Water,010,101,2.0,2.0,King Wen,Water
+23,CCA,CCA,Pro,P,Nonpolar,010111,Yin-Yin-Yang,2,2/9-2/9-1,4,1,47,011,010,Cello,Oppression,47,47,Ring of Miracles,Metal,011,010,3.0,4.5,King Wen,Metal
+24,CCG,CCG,Pro,P,Nonpolar,010110,Yin-Yin-Yang,3,2/9-2/9-5,5,0,6,010,111,Double Bass,Conflict,6,6,Ring of Miracles,Water,010,111,2.0,0.0,King Wen,Water
+25,CAU,CAT,His,H,Basic,011100,Yin-Yang-Yin,1,2/9-1-b7,3,2,36,101,010,Trumpet,Darkening,36,36,Ring of Light,Fire,101,010,4.5,4.5,King Wen,Fire
+26,CAC,CAC,His,H,Basic,011101,Yin-Yang-Yin,2,2/9-1-2/9,4,1,22,101,011,Horn,Grace,22,22,Ring of Light,Fire,101,011,4.5,3.5,King Wen,Fire
+27,CAA,CAA,Gln,Q,Polar,011111,Yin-Yang-Yang,1,2/9-1-1,3,2,63,011,010,Trombone,After Completion,63,63,Ring of Light,Metal,011,010,3.0,4.5,King Wen,Metal
+28,CAG,CAG,Gln,Q,Polar,011110,Yin-Yang-Yang,2,2/9-1-5,4,1,37,110,101,Tuba,Family,37,37,Ring of Light,Wood,110,101,5.5,2.0,King Wen,Wood
+29,CGU,CGT,Arg,R,Basic,011000,Yin-Yang-Yin,2,2/9-5-b7,4,1,21,110,010,Harp,Biting Through,21,21,Ring of Life,Wood,110,010,5.5,4.5,King Wen,Wood
+30,CGC,CGC,Arg,R,Basic,011001,Yin-Yang-Yin,3,2/9-5-2/9,5,0,38,101,011,Piano,Opposition,38,38,Ring of Life,Fire,101,011,4.5,3.5,King Wen,Fire
+31,CGA,CGA,Arg,R,Basic,011011,Yin-Yang-Yang,2,2/9-5-1,4,1,17,010,110,Organ,Following,17,17,Ring of Life,Water,010,110,2.0,1.0,King Wen,Water
+32,CGG,CGG,Arg,R,Basic,011010,Yin-Yang-Yang,3,2/9-5-5,5,0,25,110,001,Guitar,Innocence,25,25,Ring of Gaia,Wood,110,001,5.5,5.5,King Wen,Wood
+33,AUU,ATT,Ile,I,Nonpolar,110000,Yang-Yin-Yin,0,1-b7-b7,2,3,2,000,000,Flute,Earth,2,2,Ring of Water,Earth,000,000,0.0,6.5,King Wen,Earth
+34,AUC,ATC,Ile,I,Nonpolar,110001,Yang-Yin-Yin,1,1-b7-2/9,3,2,23,001,000,Oboe,Splitting Apart,23,23,Ring of Water,Wood,001,000,1.0,6.5,King Wen,Wood
+35,AUA,ATA,Ile,I,Nonpolar,110011,Yang-Yin-Yang,0,1-b7-1,2,3,8,000,010,Clarinet,Holding Together,8,8,Ring of Water,Water,000,010,0.0,4.5,King Wen,Water
+36,AUG,ATG,Met,M,Nonpolar,110010,Yang-Yin-Yang,1,1-b7-5,3,2,20,010,000,Bassoon,Contemplation,20,20,Ring of Water,Water,010,000,2.0,6.5,King Wen,Water
+37,ACU,ACT,Thr,T,Polar,110100,Yang-Yin-Yin,1,1-2/9-b7,3,2,16,100,000,Violin,Small Taming,16,16,Ring of Miracles,Earth,100,000,3.5,6.5,King Wen,Earth
+38,ACC,ACC,Thr,T,Polar,110101,Yang-Yin-Yin,2,1-2/9-2/9,4,1,35,101,000,Viola,Easy Progress,35,35,Ring of Miracles,Fire,101,000,4.5,6.5,King Wen,Fire
+39,ACA,ACA,Thr,T,Polar,110111,Yang-Yin-Yang,1,1-2/9-1,3,2,45,000,110,Cello,Gathering Together,45,45,Ring of Miracles,Wood,000,110,0.0,1.0,King Wen,Wood
+40,ACG,ACG,Thr,T,Polar,110110,Yang-Yin-Yang,2,1-2/9-5,4,1,12,010,000,Double Bass,Standstill,12,12,Ring of Miracles,Water,010,000,2.0,6.5,King Wen,Water
+41,AAU,AAT,Asn,N,Polar,111100,Yang-Yang-Yin,0,1-1-b7,2,3,15,000,101,Trumpet,Modesty,15,15,Ring of Light,Fire,000,101,0.0,2.0,King Wen,Fire
+42,AAC,AAC,Asn,N,Polar,111101,Yang-Yang-Yin,1,1-1-2/9,3,2,52,101,100,Horn,Keeping Still,52,52,Ring of Light,Earth,101,100,4.5,3.0,King Wen,Earth
+43,AAA,AAA,Lys,K,Basic,111111,Yang-Yang-Yang,0,1-1-1,2,3,31,011,100,Trombone,Wooing,31,31,Ring of No-Return,Metal,011,100,3.0,3.0,King Wen,Metal
+44,AAG,AAG,Lys,K,Basic,111110,Yang-Yang-Yang,1,1-1-5,3,2,33,111,100,Tuba,Retreat,33,33,Ring of No-Return,Metal,111,100,6.5,3.0,King Wen,Metal
+45,AGU,AGT,Ser,S,Polar,111000,Yang-Yang-Yin,1,1-5-b7,3,2,24,110,010,Harp,Return,24,24,Ring of Life,Wood,110,010,5.5,4.5,King Wen,Wood
+46,AGC,AGC,Ser,S,Polar,111001,Yang-Yang-Yin,2,1-5-2/9,4,1,27,101,011,Piano,Nourishment,27,27,Ring of Life,Fire,101,011,4.5,3.5,King Wen,Fire
+47,AGA,AGA,Arg,R,Basic,111011,Yang-Yang-Yang,1,1-5-1,3,2,62,010,110,Organ,Preponderance of Small,62,62,Ring of No-Return,Water,010,110,2.0,1.0,King Wen,Water
+48,AGG,AGG,Arg,R,Basic,111010,Yang-Yang-Yang,2,1-5-5,4,1,3,110,001,Guitar,Difficulty at Beginning,3,3,Ring of Gaia,Wood,110,001,5.5,5.5,King Wen,Wood
+49,GUU,GTT,Val,V,Nonpolar,100000,Yang-Yin-Yin,1,5-b7-b7,3,2,7,010,000,Flute,Army,7,7,Ring of Water,Water,010,000,2.0,6.5,King Wen,Water
+50,GUC,GTC,Val,V,Nonpolar,100001,Yang-Yin-Yin,2,5-b7-2/9,4,1,4,001,010,Oboe,Youthful Folly,4,4,Ring of Water,Wood,001,010,1.0,4.5,King Wen,Wood
+51,GUA,GTA,Val,V,Nonpolar,100011,Yang-Yin-Yang,1,5-b7-1,3,2,29,010,010,Clarinet,Abysmal,29,29,Ring of Water,Water,010,010,2.0,4.5,King Wen,Water
+52,GUG,GTG,Val,V,Nonpolar,100010,Yang-Yin-Yang,2,5-b7-5,4,1,59,110,010,Bassoon,Dispersion,59,59,Ring of Water,Wood,110,010,5.5,4.5,King Wen,Wood
+53,GCU,GCT,Ala,A,Nonpolar,100100,Yang-Yin-Yin,2,5-2/9-b7,4,1,40,110,001,Violin,Deliverance,40,40,Ring of Miracles,Wood,110,001,5.5,5.5,King Wen,Wood
+54,GCC,GCC,Ala,A,Nonpolar,100101,Yang-Yin-Yin,3,5-2/9-2/9,5,0,64,010,101,Viola,Before Completion,64,64,Ring of Miracles,Water,010,101,2.0,2.0,King Wen,Water
+55,GCA,GCA,Ala,A,Nonpolar,100111,Yang-Yin-Yang,2,5-2/9-1,4,1,47,011,010,Cello,Oppression,47,47,Ring of Miracles,Metal,011,010,3.0,4.5,King Wen,Metal
+56,GCG,GCG,Ala,A,Nonpolar,100110,Yang-Yin-Yang,3,5-2/9-5,5,0,6,010,111,Double Bass,Conflict,6,6,Ring of Miracles,Water,010,111,2.0,0.0,King Wen,Water
+57,GAU,GAT,Asp,D,Acidic,101100,Yang-Yang-Yin,1,5-1-b7,3,2,36,101,010,Trumpet,Darkening of Light,36,36,Ring of Light,Fire,101,010,4.5,4.5,King Wen,Fire
+58,GAC,GAC,Asp,D,Acidic,101101,Yang-Yang-Yin,2,5-1-2/9,4,1,22,101,011,Horn,Grace,22,22,Ring of Light,Fire,101,011,4.5,3.5,King Wen,Fire
+59,GAA,GAA,Glu,E,Acidic,101111,Yang-Yang-Yang,1,5-1-1,3,2,63,011,010,Trombone,After Completion,63,63,Ring of Light,Metal,011,010,3.0,4.5,King Wen,Metal
+60,GAG,GAG,Glu,E,Acidic,101110,Yang-Yang-Yang,2,5-1-5,4,1,37,110,101,Tuba,Family,37,37,Ring of Light,Wood,110,101,5.5,2.0,King Wen,Wood
+61,GGU,GGT,Gly,G,Nonpolar,101000,Yang-Yang-Yin,2,5-5-b7,4,1,21,110,010,Harp,Biting Through,21,21,Ring of Life,Wood,110,010,5.5,4.5,King Wen,Wood
+62,GGC,GGC,Gly,G,Nonpolar,101001,Yang-Yang-Yin,3,5-5-2/9,5,0,38,101,011,Piano,Opposition,38,38,Ring of Life,Fire,101,011,4.5,3.5,King Wen,Fire
+63,GGA,GGA,Gly,G,Nonpolar,101011,Yang-Yang-Yang,2,5-5-1,4,1,17,010,110,Organ,Following,17,17,Ring of Life,Water,010,110,2.0,1.0,King Wen,Water
+64,GGG,GGG,Gly,G,Nonpolar,101010,Yang-Yang-Yang,3,5-5-5,5,0,25,110,001,Guitar,Innocence,25,25,Ring of Gaia,Wood,110,001,5.5,5.5,King Wen,Wood
